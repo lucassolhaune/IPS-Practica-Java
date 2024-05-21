@@ -1,0 +1,1 @@
+Hacer un programa que cree un mazo de cartas y que el usuario saque cartas mezcladas del mismo.
